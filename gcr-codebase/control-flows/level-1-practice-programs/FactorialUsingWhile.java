@@ -6,6 +6,7 @@ class FactorialUsingWhile {
 		
 		// Take a number in input
 		Scanner input = new Scanner(System.in);
+		System.out.print("Enter a number whose factorial you want to find: ");
 		int number = input.nextInt();
 		int factorial = 1;
 		// Check if it is a Natutal Number
