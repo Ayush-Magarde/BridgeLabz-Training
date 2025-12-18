@@ -16,7 +16,6 @@ class CheckTheSmallestNumber {
 		}
 		else {
 			System.out.println ("Is the first number the smallest? NO");
-		}			
-			
+		}					
 	}
 }
