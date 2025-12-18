@@ -11,16 +11,12 @@ class CheckTheSmallestNumber {
 		System.out.print("Enter the Third Number: ");
 		int number3 = input.nextInt();
 		// Check if the first number is the smallest
-		if (number1 < number2) {
-			if (number1 < number3) {
-				System.out.println("Is the first number the smallest? Yes");
-			}
-			else {
-				System.out.println("Is the first number the smallest? No");
-			}
+		if (number1 < number2 && number1 < number3) {
+			System.out.println ("Is the first number the smallest? YES");
 		}
 		else {
-			System.out.println("Is the first number the smallest? No");
-		}
+			System.out.println ("Is the first number the smallest? NO");
+		}			
+			
 	}
 }
