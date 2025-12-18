@@ -1,4 +1,4 @@
-// Write a program to check for the natural number and write the sum of n natural numbers 
+// Write a program to check for the natural number and write the sum of n natural numbers. 
 
 import java.util.Scanner;
 class SumOfNaturalNumbers {
