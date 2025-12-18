@@ -5,7 +5,7 @@ precedence of the operators. */
 import java.util.Scanner;
 public class IntOperation {
 	public static void main(String[] args){
-		
+		// Taking user input for three numbers
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter a: ");
 		int a = sc.nextInt();
@@ -13,7 +13,7 @@ public class IntOperation {
 		int b = sc.nextInt();
 		System.out.println("Enter c: ");
 		int c = sc.nextInt();
-		//performing integer operations 
+		// Performing integer operations 
 		int operation1 = a + b * c;
 		int operation2 = a * b + c;
 		int operation3 = c + a / b;
