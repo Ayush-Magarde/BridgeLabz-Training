@@ -1,7 +1,7 @@
 //Create a program to find the factors of a number taken as user input, store the factors in an array.
 
 import java.util.Scanner;
-public class FactorsArray{
+public class FactorsArray {
     public static void main(String[] args){
 
 
@@ -17,7 +17,7 @@ public class FactorsArray{
         int index = 0;                      
         // Find factors
         for(int i = 1; i <= number; i++){
-            if(number%i == 0){
+            if(number %i == 0){
                 // Resize the array if it's full
                 if(index == maxFactor){
                     maxFactor = maxFactor * 2;
