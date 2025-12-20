@@ -2,7 +2,7 @@
 and find the largest and second largest element of the array.*/
 
 import java.util.Scanner;
-class LargestSecondLargestDigit{
+class LargestSecondLargestDigit {
     public static void main(String[] args){
        
         Scanner input = new Scanner(System.in);
@@ -11,7 +11,7 @@ class LargestSecondLargestDigit{
         int maxDigit = 10;
         int[] digits = new int[maxDigit];
         int index = 0;
-		//Taking digits from the number
+		// Taking digits from the number
         while (number != 0 && index < maxDigit){
             digits [index++] = number%10;
             number /= 10;
@@ -23,13 +23,13 @@ class LargestSecondLargestDigit{
             if(digits [i] > largest){
                 secondLargest = largest;
                 largest = digits[i];
-            } else if (digits [i] > secondLargest && digits[i]!=largest){
+            } else if (digits [i] > secondLargest && digits[i] != largest){
                 secondLargest = digits[i];
             }
         }
 
 
-        //Display the largest and second largest element
+        // Display the largest and second largest element
         System.out.println("Largest: " + largest);
         System.out.println("Second Largest: " + secondLargest);
     }
