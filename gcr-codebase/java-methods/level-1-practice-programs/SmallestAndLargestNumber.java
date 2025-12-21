@@ -1,6 +1,7 @@
 import java.util.Scanner;
 class SmallestAndLargestNumber {
 	public static int [] findSmallestAndLargest (int number1, int number2, int number3) {
+		
 		// Initializing smallest and largest with number1 for comparision
 		int smallest = number1;
 		int largest = number1;
