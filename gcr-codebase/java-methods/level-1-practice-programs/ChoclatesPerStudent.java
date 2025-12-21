@@ -6,7 +6,6 @@ class  ChoclatesPerStudent {
 		int remainingChoclates = numberOfChoclates % numberOfChildren;
 		return new int[] {choclatesPerStudent, remainingChoclates};
 	}
-	
 	public static void main (String[] args) {
 		
 		Scanner input = new Scanner (System.in);
@@ -20,8 +19,6 @@ class  ChoclatesPerStudent {
 		
 		// Display the results
 		System.out.println("Each student will get " + choclatesPerStudent[0] + " choclates");
-		System.out.println ("Remaining choclates: " + choclatesPerStudent[1]);
-		
-		
+		System.out.println ("Remaining choclates: " + choclatesPerStudent[1]);		
 	}
 }
