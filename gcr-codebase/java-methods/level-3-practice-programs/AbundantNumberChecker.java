@@ -27,15 +27,16 @@ class AbundantNumberChecker {
 	// Method to check strong number 
 	public static boolean isStrongNumber (int number) {
 		int sumOfFactorials = 0;
+		int temp = number;
 		while (number != 0) {
 			int digit = number % 10;
 			int factorial = 1;
-			for (int i = 1; i <= number; i++) {
+			for (int i = 1; i <= digit; i++) {
 				factorial *= i;
 		    }
-			sum += factorial;
+			sumOfFactorials += factorial;
 			number /= 10;
 	    }
-		return sumOfFactorials == number;
+		return sumOfFactorials == temp;
 	}
 }
