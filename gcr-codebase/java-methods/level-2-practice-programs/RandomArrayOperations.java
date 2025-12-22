@@ -1,4 +1,4 @@
-class RandomStatistics {
+class RandomArrayOperations {
 
 	// Method to generate an array of 4-digit random numbers
 	public static int[] generate4DigitRandomArray (int size) {
