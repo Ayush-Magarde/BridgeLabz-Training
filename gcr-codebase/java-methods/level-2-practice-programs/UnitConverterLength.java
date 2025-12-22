@@ -1,4 +1,3 @@
-// Utility class to perform basic length unit conversions
 class UnitConverterLength {
 
 	// Method to convert kilometers to miles
