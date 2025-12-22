@@ -69,4 +69,29 @@ class NumberCheckerUtility {
 		}
 		return new int[] {smallest, secondSmallest };
 	}
+	
+	// Main method
+	public static void main (String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.print ("Please enter a number: ");
+		int number = input.nextInt();
+		
+		// Call the methods
+		int count = digitsCounter (number);
+		int[] digitsArray = storeDigits(number, count);
+		boolean isDuckNumber = duckNumberChecker(digitsArray);
+		boolean isArmstrongNumber = armstrongNumberChecker(digitsArray, number);
+		int[] largest = largestAndSecondLargest(digitsArray);
+		int [] smallest = smallestAndSecondSmallest(digitsArray);
+		
+		// Display the results
+		System.out.println("Number of digits: " + count);
+		for (int value : digitsArray) {
+			System.out.print(value + " ");
+		} System.out.println();
+		System.out.println ("Is it a duck number: " + isDuckNumber);
+		System.out.println ("Is it an armstrong number: " + isArmstrongNumber);
+		System.out.println ("largest: " + largest[0] + " second largest: " + largest[1]);
+		System.out.println ("smallest: " + smallest[0] + " second smallest: " + smallest[1]);
+	}
 }
