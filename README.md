@@ -37,4 +37,5 @@ BridgeLabz-Training/
 
 📌 **Key Takeaway:**  
 Learned how Git and GitHub are used for version control and progress tracking, and understood the importance of maintaining a clean folder structure and a well-documented README for professional software development and evaluation.
+
 ---
