@@ -39,3 +39,25 @@ BridgeLabz-Training/
 Learned how Git and GitHub are used for version control and progress tracking, and understood the importance of maintaining a clean folder structure and a well-documented README for professional software development and evaluation.
 
 ---
+
+## 📅 Day 2 – Git Practice & Basic Java Programs  
+**Date:** 16-Dec-2025
+
+Continued strengthening my understanding of Git workflow and started working with basic Java programs to get comfortable with Java syntax and program structure.
+
+### What I did today:
+- Practiced Git workflow to understand commits and version control.
+- Solved basic Java programs to learn:
+  - Java syntax
+  - Program structure
+  - Input and output handling
+- Practiced adding, committing, and pushing Java files to GitHub.
+- Learned basic Java syntax and explored programming fundamentals.
+
+🔗 **Code Link:**  
+[Basic Java Programs](./core-java-practice/gcr-codebase/programming-prerequisites)
+
+📌 **Key Takeaway:**  
+Gained confidence in using Git for daily development tasks and built a strong foundation in Java basics, including syntax, structure, and input/output operations.
+
+---
