@@ -61,3 +61,33 @@ Continued strengthening my understanding of Git workflow and started working wit
 Gained confidence in using Git for daily development tasks and built a strong foundation in Java basics, including syntax, structure, and input/output operations.
 
 ---
+
+## 📅 Day 3 – Programming Fundamentals Lab Practice (Level 1 & Level 2)  
+**Date:** 17-Dec-2025
+
+Focused on building a strong foundation in Java Programming Fundamentals by completing Level 1 and Level 2 lab practice problems while following best programming standards.
+
+### What I practiced today:
+- **Java Programming Fundamentals:**
+  - Java comments
+  - Basic data types
+  - Variables
+  - Arithmetic operators
+  - Operator precedence
+  - Type conversion
+  - Taking user input in programs
+
+### Best Programming Practices Followed:
+- Avoided hard-coded values wherever possible.
+- Followed proper naming conventions.
+- Practiced meaningful variable naming, for example:
+
+```java
+String name = "Eric";
+double height = input.nextDouble();
+double totalDistance = distanceFromTovia + distanceViaToFinalCity;
+```
+🔗 **Assignment Link:**  
+[Java Programming Elements](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+---
