@@ -90,6 +90,9 @@ double totalDistance = distanceFromTovia + distanceViaToFinalCity;
 🔗 **Assignment Link:**  
 [Java Programming Elements](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
+📌 **Key Takeaway:**  
+Built a strong foundation in Java programming fundamentals by understanding core concepts such as data types, variables, operators, type conversion, and user input, while applying clean coding practices to write readable and maintainable programs.
+
 ---
 
 ## 📅 Day 4 – Control Flow & Lab Practice (Level 1 & Level 2)  
@@ -156,5 +159,38 @@ Focused on understanding Java Arrays by completing Level 1 and Level 2 lab pract
 
 📌 **Key Takeaway:**  
 Developed a strong understanding of single and multi-dimensional arrays in Java, and learned how to write efficient, readable, and maintainable code by following best programming practices.
+
+---
+
+## 📅 Day 6 – Java Methods (Level 1, Level 2 & Level 3)  
+**Date:** 20-Dec-2025
+
+Focused on understanding Java Methods and building reusable, dynamic, and well-structured programs by applying best programming practices.
+
+### What I practiced today:
+- **Java Methods concepts including:**
+  - User-defined methods
+  - Using methods multiple times
+  - Making methods more dynamic
+  - Recursive methods
+  - Static methods
+  - Java standard library methods
+  - `java.lang.Math` class
+
+### Best Programming Practices Followed:
+- Used variables for all fixed values, user inputs, and results.
+- Followed proper naming conventions for variables and methods.
+- Designed reusable methods to avoid code duplication.
+
+### Work Done:
+- Completed Level 1, Level 2, and Level 3 Java Methods Lab Practice assignments.
+- Implemented and tested all programs locally.
+- Committed and pushed all method-based programs to GitHub.
+
+🔗 **Assignment Link:**  
+[Level 1, Level 2 & Level 3 Java Methods Lab Practice](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/java-methods)
+
+📌 **Key Takeaway:**  
+Learned how to design reusable and modular Java programs using methods, improving code readability, maintainability, and overall program structure.
 
 ---
