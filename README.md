@@ -124,3 +124,37 @@ Focused on learning Java Control Flow concepts by completing Level 1 and Level 2
 Developed a strong understanding of decision-making and looping constructs in Java, and learned how to write efficient, readable, and structured programs using proper control flow techniques.
 
 ---
+
+## 📅 Day 5 – Arrays & Lab Practice (Level 1 & Level 2)  
+**Date:** 19-Dec-2025
+
+Focused on understanding Java Arrays by completing Level 1 and Level 2 lab practice problems while following professional programming standards.
+
+### What I practiced today:
+- **Java Arrays concepts including:**
+  - Creating and accessing arrays
+  - Traversing arrays using `for` loops
+  - Modifying array elements
+  - Using the `length` property of arrays
+- **Multi-Dimensional Arrays:**
+  - 2D arrays (matrix)
+  - Accessing and finding the size of multi-dimensional arrays
+
+### Best Programming Practices Followed:
+- Used variables for all fixed values, user inputs, and results.
+- Avoided hard-coded values wherever possible.
+- Followed proper naming conventions.
+- Validated user inputs and handled invalid cases.
+- Used the `length` property of arrays within loops.
+
+### Work Done:
+- Completed Level 1 and Level 2 Arrays Lab Practice assignments.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+[Level 1 & Level 2 Arrays Lab Practice](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
+📌 **Key Takeaway:**  
+Developed a strong understanding of single and multi-dimensional arrays in Java, and learned how to write efficient, readable, and maintainable code by following best programming practices.
+
+---
