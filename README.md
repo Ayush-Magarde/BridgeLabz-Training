@@ -194,3 +194,41 @@ Focused on understanding Java Methods and building reusable, dynamic, and well-s
 Learned how to design reusable and modular Java programs using methods, improving code readability, maintainability, and overall program structure.
 
 ---
+
+# Week 2: Java Strings, Methods & Exception Handling
+
+## 📅 Day 1 – Java Strings & Exception Handling (Level 1, 2 & 3 Labs)  
+**Date:** 22-Dec-2025
+
+Focused on strengthening Java Strings and Exception Handling concepts by completing Level 1, Level 2, and Level 3 lab practice problems while following professional coding standards.
+
+### What I practiced today:
+- **Java String Concepts:**
+  - Creating and manipulating strings
+  - Using escape sequences (`\`)
+  - String arrays
+  - Built-in `String` class methods
+  - ASCII character codes
+- **Java Exception Handling:**
+  - Types of exceptions
+  - Checked exceptions
+  - Unchecked exceptions (`RuntimeException`)
+
+### Best Programming Practices Followed:
+- Used variables for all fixed values, user inputs, and results.
+- Implemented logic using methods instead of writing everything inside `main()`.
+- Followed proper naming conventions for variables and methods.
+- Used meaningful program and class names.
+
+### Work Done:
+- Completed Java String Lab Practices (Level 1, 2 & 3).
+- Inserted all programs into submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+[Java String Lab Practices](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
+📌 **Key Takeaway:**  
+Improved understanding of Java string manipulation and exception handling concepts, and learned how to write robust, well-structured programs using proper error handling and clean coding practices.
+
+---
