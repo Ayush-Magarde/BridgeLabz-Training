@@ -232,3 +232,36 @@ Focused on strengthening Java Strings and Exception Handling concepts by complet
 Improved understanding of Java string manipulation and exception handling concepts, and learned how to write robust, well-structured programs using proper error handling and clean coding practices.
 
 ---
+
+## 📅 Day 2 – Built-in Functions & String Handling  
+**Date:** 23-Dec-2025
+
+Focused on understanding Java String Handling and learning the practical use of built-in functions to build clean and efficient logic.
+
+### What I practiced today:
+- Handling strings and common `String` functions.
+- String manipulation techniques.
+- **Functions:**
+  - Parameter passing
+  - Return values
+- Practical usage of Java built-in functions to solve logic-based problems.
+- Implemented extra practice programs based on class material.
+
+### Outcome:
+- Gained clarity on how to use common built-in functions effectively.
+- Learned to build clean logic using reusable methods.
+- Improved problem-solving efficiency using Java standard library functions.
+
+### Work Done:
+- Completed **EXTRAS** – Java String Handling material.
+- Completed **EXTRAS** – Built-in Function Practice Assignment.
+- Tested, committed, and pushed all extra practice programs to GitHub.
+
+🔗 **Assignment Links:**  
+- [Java String Handling (Extras)](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/string-handling)  
+- [Built-in Function Practice (Extras)](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/string-built-in)
+
+📌 **Key Takeaway:**  
+Developed a stronger understanding of Java string handling and built-in functions, enabling the creation of efficient, reusable, and well-structured logic for problem-solving.
+
+---
