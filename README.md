@@ -55,7 +55,7 @@ Continued strengthening my understanding of Git workflow and started working wit
 - Learned basic Java syntax and explored programming fundamentals.
 
 🔗 **Code Link:**  
-[Basic Java Programs](./core-java-practice/gcr-codebase/programming-prerequisites)
+[Basic Java Programs](./core-java-practice/gcr-codebase/programming-pre-requisites)
 
 📌 **Key Takeaway:**  
 Gained confidence in using Git for daily development tasks and built a strong foundation in Java basics, including syntax, structure, and input/output operations.
