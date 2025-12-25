@@ -91,3 +91,36 @@ double totalDistance = distanceFromTovia + distanceViaToFinalCity;
 [Java Programming Elements](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
+
+## 📅 Day 4 – Control Flow & Lab Practice (Level 1 & Level 2)  
+**Date:** 18-Dec-2025
+
+Focused on learning Java Control Flow concepts by completing Level 1 and Level 2 lab practice problems while following professional programming standards.
+
+### What I practiced today:
+- **Java Control Flow concepts including:**
+  - `if`, `if-else`, nested `if-else`
+  - `switch` statements
+  - Ternary operator
+- **Iteration statements:**
+  - `for` loop
+  - `while` loop
+  - `do-while` loop
+
+### Best Programming Practices Followed:
+- Used variables for all fixed values, user inputs, and results.
+- Avoided hard-coded values wherever possible.
+- Validated all user inputs and handled invalid cases.
+- Used loop conditions and array length where applicable.
+
+### Work Done:
+- Completed Level 1 and Level 2 Control Flow Lab Practice assignments.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+[Control Flow Practice Programs](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+
+📌 **Key Takeaway:**  
+Developed a strong understanding of decision-making and looping constructs in Java, and learned how to write efficient, readable, and structured programs using proper control flow techniques.
+
+---
