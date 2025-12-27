@@ -14,5 +14,3 @@ public class LibraryBookMain {
 	 book1.displayBook();
 	 }
 }
-
-
