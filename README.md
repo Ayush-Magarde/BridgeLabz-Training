@@ -266,3 +266,41 @@ Focused on understanding Java String Handling and learning the practical use of 
 Developed a stronger understanding of Java string handling and built-in functions, enabling the creation of efficient, reusable, and well-structured logic for problem-solving.
 
 ---
+
+## 📅 Day 3 – Scenario-Based Java Problem Solving  
+**Date:** 24-Dec-2025
+
+Focused on solving real-world, scenario-based Java problems to strengthen Core Java fundamentals, logical thinking, and clean coding practices.
+
+### What I practiced today:
+- **Used Core Java concepts including:**
+  - Variables, literals, and primitive data types
+  - User input using `Scanner`
+  - Operators for calculations
+  - Conditional logic using `if`, `else`, ternary, and `switch`
+  - Loops (`for`, `while`, `do-while`, `for-each`)
+  - Control flow using `break` and `continue`
+
+### Scenario-Based Problems Implemented:
+- **The Coffee Counter Chronicles**
+  - Took coffee type input using `switch`
+  - Accepted quantity input
+  - Calculated total bill and GST
+  - Used `while` loop to serve multiple customers until exit
+- **Maya’s BMI Fitness Tracker**
+  - Calculated BMI using height and weight
+  - Displayed BMI category using `if-else` conditions
+  - Followed clean and readable coding standards
+
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs.
+- Organized all solutions into the scenario-based-codebase folder.
+- Committed and pushed all programs to GitHub.
+
+🔗 **Folder Link:**  
+[Scenario-Based Codebase](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-1)
+
+📌 **Key Takeaway:**  
+Improved problem-solving skills by applying core Java concepts to real-world scenarios, reinforcing logical thinking and the importance of writing clean, maintainable code.
+
+---
