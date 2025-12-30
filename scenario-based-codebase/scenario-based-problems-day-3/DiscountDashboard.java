@@ -9,7 +9,7 @@ class DiscountDashboard {
 		double totalBill = 0;
 		for (int i = 1; i <= totalItems; i++) {
 			System.out.print("Enter the price of the " + i + " product: ");
-			int itemCost = input.nextInt();
+			double itemCost = input.nextDouble();
 			totalBill += itemCost;
 		}
 		System.out.println("Total bill: " + totalBill);
@@ -17,7 +17,7 @@ class DiscountDashboard {
 			totalBill = totalBill - (totalBill * (0.15));
 			System.out.println("Total bill after 15% discount: " + totalBill);
 		}
-		else if (totalBill > 5000){
+		else if (totalBill >= 5000){
 			totalBill = totalBill - (totalBill * (0.25));
 			System.out.println("Total bill after 25% discount: " + totalBill);
 		}
