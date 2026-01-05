@@ -110,3 +110,33 @@ Focused on strengthening Java keyword concepts and object handling techniques by
 Developed a clear understanding of how Java keywords control object behavior, memory usage, and runtime type checking, enabling better design and structure of Java programs.
 
 ---
+
+## 📅 Day 2 – Object Modeling & Class Diagram  
+**Date:** 30-Dec-2025
+
+Focused on strengthening Object Modeling by designing real-world Java programs and understanding class structure, relationships, and object-oriented design principles while following professional coding standards.
+
+### What I practiced today:
+- **Object Modeling Concepts:**
+  - Understanding object modeling
+  - Designing class structures
+  - Learning class diagrams and object relationships
+
+### Best Programming Practices Followed:
+- Used meaningful variable and method names.
+- Maintained clean code structure and proper indentation.
+- Used modular and readable code blocks.
+- Avoided hard-coded values wherever possible.
+
+### Work Done:
+- Completed Object Modeling and Class Diagram practice programs.
+- Inserted all programs into submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+[Object Modeling](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
+📌 **Key Takeaway:**  
+Improved understanding of object modeling, class relationships, and real-world logical implementation by building structured Java programs using clean design principles.
+
+---
