@@ -337,8 +337,51 @@ Focused on strengthening Object-Oriented Programming fundamentals by understandi
 
 🔗 **Assignment Link:**  
 [Object-Oriented Programming Fundamentals](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects)
+[Daily Leetcode Problems](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-1)
+[Scenario based problems](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-2)
 
 📌 **Key Takeaway:**  
 Developed a solid understanding of Java OOPS fundamentals by applying classes, objects, constructors, and methods to design clean, modular, and reusable programs.
+
+---
+
+## 📅 Day 5 – Java Constructors, Instance vs Class Variables  
+**Date:** 27-Dec-2025
+
+Focused on strengthening Java Constructors and understanding the difference between instance and class variables by exploring object initialization, memory behavior of variables, and class design principles while following professional coding standards.
+
+### What I practiced today:
+- **Java Constructors:**
+  - Purpose and usage of constructors
+  - Default constructor
+  - Parameterized constructor
+  - Constructor overloading
+  - Use of the `this` keyword
+- **Instance vs Class Variables:**
+  - Instance variables and their memory allocation
+  - Class (static) variables and shared memory behavior
+  - Difference between instance and static members
+- **Object Initialization:**
+  - Initializing objects using constructors
+  - Accessing variables and methods using objects
+
+### Best Programming Practices Followed:
+- Used variables for all fixed values, user inputs, and results.
+- Implemented logic using methods instead of writing everything inside `main()`.
+- Followed proper naming conventions for variables and methods.
+- Used meaningful program and class names.
+
+### Work Done:
+- Completed Java Constructors and Instance vs Class Variables programs.
+- Inserted all programs into submission documents.
+- Solved daily LeetCode problems for additional practice.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Links:**  
+- [Java Constructors & Instance vs Class Variables](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)  
+- [Daily LeetCode Problems](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-2)
+
+📌 **Key Takeaway:**  
+Gained a clear understanding of how constructors work and how instance and static variables behave in memory, enabling better class design and object-oriented programming practices in Java.
 
 ---
