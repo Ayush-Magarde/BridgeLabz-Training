@@ -413,3 +413,43 @@ Focused on strengthening problem-solving skills and logical thinking by solving 
 Improved confidence in solving real coding interview problems by practicing logical thinking, edge-case handling, and writing clean, efficient Java solutions.
 
 ---
+
+# Week 3: Java Keywords & Object Handling
+
+## 📅 Day 1 – this, static, final Keywords & instanceof Operator  
+**Date:** 29-Dec-2025
+
+Focused on strengthening Java keyword concepts and object handling techniques by understanding and implementing the `this`, `static`, and `final` keywords along with the `instanceof` operator, while applying them to scenario-based programming problems and following professional coding standards.
+
+### What I practiced today:
+- **Java Keywords:**
+  - `this` keyword and its use cases
+  - `static` variables and methods
+  - `final` variables, methods, and classes
+- **Object Handling:**
+  - Understanding the `instanceof` operator
+  - Checking object types at runtime
+- **Scenario-Based Logic:**
+  - Implementing real-world logic using OOPS concepts
+  - Applying conditions and validations in programs
+
+### Best Programming Practices Followed:
+- Used variables for all fixed values, user inputs, and results.
+- Implemented logic using methods instead of writing everything inside `main()`.
+- Followed proper naming conventions for variables and methods.
+- Used meaningful program and class names.
+
+### Work Done:
+- Completed programs using `this`, `static`, `final`, and `instanceof`.
+- Implemented 5 scenario-based programming problems.
+- Inserted all programs into submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Links:**  
+- [this, static, final Keywords & instanceof](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordandoperator/levelone)  
+- [Scenario-Based Problems](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-3)
+
+📌 **Key Takeaway:**  
+Developed a clear understanding of how Java keywords control object behavior, memory usage, and runtime type checking, while applying them effectively in real-world, scenario-based Java programs.
+
+---
