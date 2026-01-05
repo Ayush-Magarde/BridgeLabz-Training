@@ -254,3 +254,40 @@ Focused on strengthening real-world object-oriented system design by building st
 Gained strong hands-on experience in designing modular, scalable, and real-world object-oriented Java systems by applying clean architecture and reusable code design principles.
 
 ---
+
+## 📅 Day 6 – Enterprise OOPS Systems & Real-World Application Design  
+**Date:** 03-Jan-2026
+
+Focused on strengthening enterprise-level real-world object-oriented system design by building scalable, story-driven Java applications while following professional coding standards.
+
+### What I practiced today:
+- **Enterprise OOPS System Design:**
+  - Designing scalable real-world systems
+  - Modeling business logic using classes and objects
+  - Applying encapsulation, inheritance, abstraction, and polymorphism
+- **Interface-Based Architecture:**
+  - Implementing interfaces for service abstraction
+  - Designing modular and maintainable code structures
+
+### Best Programming Practices Followed:
+- Designed small, focused, and reusable methods.
+- Used meaningful variable and method names.
+- Followed proper indentation and readability standards.
+- Structured code for scalability and long-term maintainability.
+
+### Work Done:
+- Completed enterprise scenario-based OOPS design practice.
+- Implemented 2 enterprise-level real-world Java systems.
+- Tested, committed, and pushed all programs to GitHub.
+
+### Scenario-Based Systems Implemented:
+- CabbyGo – Ride Hailing Application
+- MyBank – Customer Account Management System
+
+🔗 **Assignment Link:**  
+[Scenario-Based Programs](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day2)
+
+📌 **Key Takeaway:**  
+Developed strong hands-on understanding of enterprise-level object-oriented design by implementing scalable, modular, and real-world Java systems using clean architecture principles.
+
+---
