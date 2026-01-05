@@ -303,3 +303,54 @@ Focused on solving real-world, scenario-based Java problems to strengthen Core J
 Improved problem-solving skills by applying core Java concepts to real-world scenarios, reinforcing logical thinking and the importance of writing clean, maintainable code.
 
 ---
+
+## 📅 Day 4 – Scenario-Based Java Problem Solving  
+**Date:** 26-Dec-2025
+
+Focused on strengthening Java logical thinking and real-world programming skills by implementing scenario-based problems using control flow statements and loops while following professional coding standards.
+
+### Scenario-Based Problems Implemented:
+
+#### 1. Election Booth Manager
+**Scenario:**  
+Designed a polling booth system to manage voter eligibility and vote recording.
+
+**Features Implemented:**
+- Took voter age as input.
+- Used `if` condition to check eligibility (age ≥ 18).
+- Recorded votes for candidates (1, 2, or 3).
+- Allowed multiple votes using loops.
+- Exited the system using a special exit code.
+
+#### 2. Metro Smart Card Fare Deduction
+**Scenario:**  
+Implemented a fare deduction system for Delhi Metro based on travel distance.
+
+**Features Implemented:**
+- Accepted travel distance from the user.
+- Calculated fare using the ternary operator.
+- Deducted fare from smart card balance.
+- Used loops until balance was exhausted or user exited.
+
+#### 3. Raj’s Result Generator
+**Scenario:**  
+Developed a result generation system for a coaching institute.
+
+**Features Implemented:**
+- Accepted marks of 5 subjects.
+- Calculated average marks.
+- Assigned grades using `switch` case.
+- Used `for` loop to iterate through subjects.
+
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs.
+- Organized all solutions into the scenario-based-codebase folder.
+- Committed and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+[Scenario-Based Problems]([https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-2))
+
+📌 **Key Takeaway:**  
+Improved real-world problem-solving skills by applying logical flow, loops, conditions, and grading systems to practical Java programming scenarios.
+
+---
