@@ -495,3 +495,47 @@ Focused on strengthening Object Modeling and Scenario-Based Programming by desig
 Improved understanding of object modeling, class relationships, and real-world logical implementation by building structured Java programs using loops, conditions, and clean design principles.
 
 ---
+
+## 📅 Day 3 – Inheritance & Advanced Scenario-Based Programs  
+**Date:** 31-Dec-2025
+
+Focused on strengthening Java Inheritance concepts and advanced scenario-based programming by implementing real-world programs using inheritance, loops, conditions, and switch cases while following professional coding standards.
+
+### What I practiced today:
+- **Java Inheritance:**
+  - Understanding inheritance concepts
+  - Using the `extends` keyword
+  - Method overriding basics
+  - Parent and child class relationships
+- **Scenario-Based Programming:**
+  - Implementing advanced real-world logic
+  - Applying nested loops
+  - Using `do-while`, `while`, `if`, `switch`, `break`, and `continue`
+
+### Best Programming Practices Followed:
+- Used meaningful variable and method names.
+- Maintained clean code structure and proper indentation.
+- Used modular and readable code blocks.
+- Avoided hard-coded values wherever possible.
+
+### Work Done:
+- Completed Java Inheritance programs.
+- Implemented 5 advanced scenario-based Java programs.
+- Inserted all programs into submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+### Scenario-Based Programs Implemented:
+- Digital Watch Simulation
+- Online Quiz Application
+- Currency Exchange Kiosk
+- Bus Route Distance Tracker
+- Festival Lucky Draw
+
+🔗 **Assignment Links:**  
+- [Inheritance](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)  
+- [Scenario-Based Programs](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-5)
+
+📌 **Key Takeaway:**  
+Strengthened understanding of Java inheritance and advanced control flow by implementing complex real-world scenario programs using structured and modular code.
+
+---
