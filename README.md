@@ -453,3 +453,45 @@ Focused on strengthening Java keyword concepts and object handling techniques by
 Developed a clear understanding of how Java keywords control object behavior, memory usage, and runtime type checking, while applying them effectively in real-world, scenario-based Java programs.
 
 ---
+
+## 📅 Day 2 – Object Modeling, Class Diagram & Scenario-Based Programs  
+**Date:** 30-Dec-2025
+
+Focused on strengthening Object Modeling and Scenario-Based Programming by designing real-world Java programs and implementing control flow logic while following professional coding standards.
+
+### What I practiced today:
+- **Object Modeling Concepts:**
+  - Understanding object modeling
+  - Designing class structures
+  - Learning class diagrams and object relationships
+- **Scenario-Based Programming:**
+  - Implementing real-world logic using loops and conditions
+  - Applying `if`, `switch`, `for`, `while`, `break`, and `continue`
+
+### Best Programming Practices Followed:
+- Used meaningful variable and method names.
+- Maintained clean code structure and proper indentation.
+- Used modular and readable code blocks.
+- Avoided hard-coded values wherever possible.
+
+### Work Done:
+- Completed Object Modeling and Class Diagram practice.
+- Implemented 5 scenario-based Java programs.
+- Inserted all programs into submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+### Scenario-Based Programs Implemented:
+- Temperature Logger
+- Train Reservation Queue
+- Sandeep’s Fitness Challenge Tracker
+- Movie Ticket Booking App
+- Rohan’s Library Reminder App
+
+🔗 **Assignment Links:**  
+- [Object Modeling](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)  
+- [Scenario-Based Problems](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-4)
+
+📌 **Key Takeaway:**  
+Improved understanding of object modeling, class relationships, and real-world logical implementation by building structured Java programs using loops, conditions, and clean design principles.
+
+---
