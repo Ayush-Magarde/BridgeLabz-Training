@@ -211,3 +211,46 @@ Focused on strengthening Encapsulation, Interface, and Abstract Class concepts b
 Developed a strong understanding of data hiding, abstraction, and polymorphism by implementing clean, modular, and well-structured object-oriented Java programs.
 
 ---
+
+## 📅 Day 5 – Real-World OOPS Design & Helper Methods  
+**Date:** 02-Jan-2026
+
+Focused on strengthening real-world object-oriented system design by building story-driven Java applications using modular helper methods while following professional coding standards.
+
+### What I practiced today:
+- **Scenario-Based System Design:**
+  - Designing real-world problem scenarios
+  - Modeling system components using classes and objects
+  - Applying business logic through methods
+- **Helper Methods & Code Modularity:**
+  - Breaking logic into reusable helper methods
+  - Improving readability and maintainability using modular design
+- **Advanced OOPS Design:**
+  - Applying encapsulation, inheritance, abstraction, and polymorphism
+  - Implementing interfaces for behavior abstraction
+
+### Best Programming Practices Followed:
+- Designed small, focused, and reusable methods.
+- Used meaningful variable and method names.
+- Followed proper indentation and readability standards.
+- Structured programs for scalability and maintainability.
+
+### Work Done:
+- Completed advanced scenario-based OOPS design practice.
+- Implemented 5 real-world, scenario-driven Java systems.
+- Tested, committed, and pushed all programs to GitHub.
+
+### Scenario-Based Systems Implemented:
+- Hospital Patient Management System
+- Vehicle Rental Application
+- University Course Enrollment System
+- E-Wallet Application
+- Smart Home Automation System
+
+🔗 **Assignment Link:**  
+[Scenario-Based Programs](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day1)
+
+📌 **Key Takeaway:**  
+Gained strong hands-on experience in designing modular, scalable, and real-world object-oriented Java systems by applying clean architecture and reusable code design principles.
+
+---
