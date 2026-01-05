@@ -336,9 +336,9 @@ Focused on strengthening Object-Oriented Programming fundamentals by understandi
 - Committed and pushed all OOPS-based programs to GitHub.
 
 🔗 **Assignment Link:**  
-[Object-Oriented Programming Fundamentals](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects)
-[Daily Leetcode Problems](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-1)
-[Scenario based problems](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-2)
+- [Object-Oriented Programming Fundamentals](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects)
+- [Daily Leetcode Problems](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-1)
+- [Scenario based problems](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-2)
 
 📌 **Key Takeaway:**  
 Developed a solid understanding of Java OOPS fundamentals by applying classes, objects, constructors, and methods to design clean, modular, and reusable programs.
@@ -383,5 +383,33 @@ Focused on strengthening Java Constructors and understanding the difference betw
 
 📌 **Key Takeaway:**  
 Gained a clear understanding of how constructors work and how instance and static variables behave in memory, enabling better class design and object-oriented programming practices in Java.
+
+---
+## 📅 Day 6 – LeetCode Problem Solving & Logic Building  
+**Date:** 28-Dec-2025
+
+Focused on strengthening problem-solving skills and logical thinking by solving LeetCode programming problems while following professional coding standards.
+
+### What I practiced today:
+- Loop-based logic implementation
+- Conditional checks and edge-case handling
+- Writing optimized and readable solutions
+- Dry-running test cases for correctness
+
+### Best Programming Practices Followed:
+- Used meaningful variable and method names.
+- Followed proper indentation and formatting.
+- Tested programs with multiple test cases.
+
+### Work Done:
+- Solved 5 LeetCode problems.
+- Practiced logic building and algorithmic thinking.
+- Tested, committed, and pushed all solutions to GitHub.
+
+🔗 **Assignment Link:**  
+[LeetCode Problem Solving](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-3)
+
+📌 **Key Takeaway:**  
+Improved confidence in solving real coding interview problems by practicing logical thinking, edge-case handling, and writing clean, efficient Java solutions.
 
 ---
