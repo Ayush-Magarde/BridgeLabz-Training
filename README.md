@@ -579,3 +579,48 @@ Focused on strengthening Encapsulation, Interface, and Abstract Class concepts b
 Developed a strong understanding of data hiding, abstraction, and polymorphism by implementing clean, modular, and well-structured object-oriented Java programs.
 
 ---
+
+## 📅 Day 5 – Linked List, Helper Methods & Real-World OOPS Design  
+**Date:** 02-Jan-2026
+
+Focused on strengthening Data Structure fundamentals (Linked List) and advanced real-world object-oriented system design by building story-driven Java applications using modular helper methods while following professional coding standards.
+
+### What I practiced today:
+- **Data Structures:**
+  - Introduction to linked lists
+  - Understanding node structure and traversal
+  - Performing insertion and traversal operations
+- **Helper Methods & Code Modularity:**
+  - Breaking logic into reusable helper methods
+  - Improving readability and maintainability using modular design
+- **Advanced OOPS Design:**
+  - Applying encapsulation, inheritance, abstraction, and polymorphism
+  - Implementing interfaces for behavior abstraction
+
+### Best Programming Practices Followed:
+- Designed small, focused, and reusable methods.
+- Used meaningful variable and method names.
+- Followed proper indentation and readability standards.
+- Avoided hard-coded values wherever possible.
+
+### Work Done:
+- Completed Linked List and helper method practice.
+- Implemented 5 real-world, scenario-driven Java systems.
+- Inserted all programs into submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+### Scenario-Based Systems Implemented:
+- Hospital Patient Management System
+- Vehicle Rental Application
+- University Course Enrollment System
+- E-Wallet Application
+- Smart Home Automation System
+
+🔗 **Assignment Links:**  
+- [Linked List](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedList)  
+- [Scenario-Based Programs](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day1)
+
+📌 **Key Takeaway:**  
+Gained strong hands-on experience in modular coding, data structures, and designing real-world object-oriented systems using clean, reusable, and scalable Java architecture.
+
+---
