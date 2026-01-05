@@ -624,3 +624,44 @@ Focused on strengthening Data Structure fundamentals (Linked List) and advanced 
 Gained strong hands-on experience in modular coding, data structures, and designing real-world object-oriented systems using clean, reusable, and scalable Java architecture.
 
 ---
+
+## 📅 Day 6 – Stack, Queue, HashMap & Enterprise OOPS Systems  
+**Date:** 03-Jan-2026
+
+Focused on strengthening core Data Structure concepts (Stack, Queue, HashMap, Hashing) and enterprise-level object-oriented system design by building real-world, story-driven Java applications while following professional coding standards.
+
+### What I practiced today:
+- **Data Structures:**
+  - Stack operations (`push`, `pop`, `peek`)
+  - Queue operations (`enqueue`, `dequeue`)
+  - Understanding hashing functions and collision handling
+- **Enterprise OOPS System Design:**
+  - Designing scalable real-world systems
+  - Applying encapsulation, inheritance, abstraction, and polymorphism
+  - Implementing interfaces for service abstraction
+
+### Best Programming Practices Followed:
+- Designed small, focused, and reusable methods.
+- Used meaningful variable and method names.
+- Followed proper indentation and readability standards.
+- Structured code for scalability and maintainability.
+
+### Work Done:
+- Completed Stack, Queue, HashMap, and Hashing Function practice.
+- Implemented 2 enterprise-level real-world Java systems.
+- Inserted all programs into submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+### Scenario-Based Systems Implemented:
+- CabbyGo – Ride Hailing Application
+- MyBank – Customer Account Management System
+
+🔗 **Assignment Links:**  
+- [Stack & Queue](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stacksandqueues)  
+- [HashMap & Hashing](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/hashmapsandhashfunctions)  
+- [Scenario-Based Programs](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day2)
+
+📌 **Key Takeaway:**  
+Developed strong hands-on understanding of core data structures and enterprise-level object-oriented design by implementing scalable, modular, and real-world Java systems.
+
+---
