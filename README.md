@@ -417,3 +417,65 @@ Simulated a mobile phone recharge system based on user input.
 Improved scenario-based problem-solving skills by applying loops, conditional logic, and user-driven program flow in practical Java programs.
 
 ---
+
+## 📅 Day 2 – Scenario-Based Java Problem Solving  
+**Date:** 30-Dec-2025
+
+Focused on strengthening Java logical thinking and real-world programming skills by implementing scenario-based problems using control flow statements and loops while following professional coding standards.
+
+### Scenario-Based Problems Implemented:
+
+#### 1. Temperature Logger
+**Scenario:**  
+Recorded daily temperatures over a period of 7 days.
+
+**Features Implemented:**
+- Calculated average and maximum temperature.
+- Used `if` conditions for comparisons.
+- Maintained readable naming conventions and modular code blocks.
+
+#### 2. Train Reservation Queue
+**Scenario:**  
+Simulated a basic train ticket booking system.
+
+**Features Implemented:**
+- Allowed multiple bookings using a `while` loop.
+- Stopped booking once seats reached zero using `break`.
+
+#### 3. Sandeep’s Fitness Challenge Tracker
+**Scenario:**  
+Tracked the number of push-ups completed daily by Sandeep.
+
+**Features Implemented:**
+- Used `for-each` loop to calculate total and average push-ups.
+- Used `continue` to skip rest days.
+
+#### 4. Movie Ticket Booking App
+**Scenario:**  
+Developed a movie ticket booking application.
+
+**Features Implemented:**
+- Took user input for movie type, seat type (gold/silver), and snacks.
+- Looped through multiple customers.
+- Followed clean structure and meaningful variable naming.
+
+#### 5. Rohan’s Library Reminder App
+**Scenario:**  
+Built a fine calculator for a library reminder system.
+
+**Features Implemented:**
+- Calculated fine at ₹5 per day for late returns.
+- Repeated the process for 5 books using a `for` loop.
+
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs.
+- Organized all solutions into the scenario-based-codebase folder.
+- Committed and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+[Scenario-Based Problems](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-4)
+
+📌 **Key Takeaway:**  
+Enhanced scenario-based problem-solving skills by applying loops, conditional logic, and control flow techniques to solve practical Java programming challenges.
+
+---
