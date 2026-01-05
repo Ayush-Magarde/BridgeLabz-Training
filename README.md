@@ -171,3 +171,43 @@ Focused on strengthening Java Inheritance concepts by implementing real-world pr
 Strengthened understanding of Java inheritance by designing structured and modular programs that demonstrate parent-child relationships and method overriding.
 
 ---
+
+## 📅 Day 4 – Encapsulation, Interface & Abstract Classes  
+**Date:** 01-Jan-2026
+
+Focused on strengthening Encapsulation, Interface, and Abstract Class concepts by understanding object security, abstraction, and polymorphic behavior while following professional coding standards.
+
+### What I practiced today:
+- **Encapsulation:**
+  - Data hiding using private variables
+  - Getter and setter methods
+  - Controlled access to class data
+- **Interfaces:**
+  - Defining and implementing interfaces
+  - Achieving multiple inheritance using interfaces
+- **Abstract Classes:**
+  - Creating abstract classes
+  - Implementing abstract methods in subclasses
+  - Understanding abstraction in real-world design
+- **Polymorphism:**
+  - Method overriding
+  - Dynamic method dispatch
+
+### Best Programming Practices Followed:
+- Used meaningful variable and method names.
+- Maintained clean code structure and proper indentation.
+- Avoided hard-coded values wherever possible.
+- Designed modular and reusable class hierarchies.
+
+### Work Done:
+- Completed Encapsulation, Interface, and Abstract Class programs.
+- Inserted all programs into submission documents.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+[Encapsulation, Interface & Abstract Classes](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+📌 **Key Takeaway:**  
+Developed a strong understanding of data hiding, abstraction, and polymorphism by implementing clean, modular, and well-structured object-oriented Java programs.
+
+---
