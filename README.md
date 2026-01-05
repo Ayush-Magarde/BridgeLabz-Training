@@ -348,7 +348,7 @@ Developed a result generation system for a coaching institute.
 - Committed and pushed all programs to GitHub.
 
 🔗 **Assignment Link:**  
-[Scenario-Based Problems]([https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-2))
+[Scenario-Based Problems]([https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based-codebase](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-2)
 
 📌 **Key Takeaway:**  
 Improved real-world problem-solving skills by applying logical flow, loops, conditions, and grading systems to practical Java programming scenarios.
