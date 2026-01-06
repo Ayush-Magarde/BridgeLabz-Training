@@ -1,4 +1,4 @@
-# Week 3: Data Structures – Linked List Fundamentals
+<img width="844" height="559" alt="image" src="https://github.com/user-attachments/assets/3df1734b-a40b-4805-b512-6b44c7c803c7" /># Week 3: Data Structures – Linked List Fundamentals
 
 ## 📅 Day 5 – Linked List Implementation & Operations  
 **Date:** 02-Jan-2026
@@ -96,3 +96,26 @@ Focused on strengthening sorting algorithm fundamentals by implementing and anal
 Gained strong hands-on experience in sorting algorithms by implementing and analyzing different techniques to understand their performance and use cases.
 
 ---
+
+## 📅 Day 2 – Searching Problems  
+**Date:** 06-Jan-2026
+
+Focused on strengthening searching algorithm fundamentals (Linear Search and Binary Search) by implementing efficient search techniques and understanding their time complexity while following professional coding standards.
+
+### What I practiced today:
+- **Searching Algorithms:**
+  - Linear Search implementation
+  - Binary Search implementation
+  - Understanding time complexity of searching techniques
+
+### Work Done:
+- Completed Linear Search and Binary Search practice.
+- Implemented multiple searching algorithm programs.
+- Solved 1 LeetCode problem.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+- [LeetCode Problems]()  
+
+📌 **Key Takeaway:**  
+Developed strong hands-on understanding of searching algorithms by implementing and analyzing Linear and Binary Search techniques for efficient data retrieval.
