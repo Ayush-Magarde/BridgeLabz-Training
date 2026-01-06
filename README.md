@@ -72,3 +72,27 @@ Focused on strengthening core Data Structure concepts including Stack, Queue, Ha
 Developed a strong understanding of Stack, Queue, and HashMap data structures and learned how hashing enables efficient data storage and retrieval in Java.
 
 ---
+
+## 📅 Day 1 – Sorting Algorithms  
+**Date:** 05-Jan-2026
+
+Focused on strengthening sorting algorithm fundamentals by implementing and analyzing common sorting techniques while following professional coding standards.
+
+### What I practiced today:
+- **Sorting Algorithms:**
+  - Understanding sorting concepts and importance
+  - Implementing Bubble Sort, Selection Sort, and Insertion Sort
+  - Comparing algorithm performance and time complexity
+
+### Work Done:
+- Completed Sorting Algorithms practice.
+- Implemented multiple sorting algorithm programs.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **Assignment Link:**  
+- [Sorting Algorithms]()  
+
+📌 **Key Takeaway:**  
+Gained strong hands-on experience in sorting algorithms by implementing and analyzing different techniques to understand their performance and use cases.
+
+---
