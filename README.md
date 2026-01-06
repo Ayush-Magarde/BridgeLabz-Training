@@ -318,3 +318,33 @@ Focused on strengthening advanced object-oriented programming and real-world sce
 
 📌 **Key Takeaway:**  
 Gained strong hands-on experience in advanced object-oriented programming by designing scalable, modular, and real-world Java systems.
+
+---
+
+## 📅 Day 2 – Scenario Based Questions  
+**Date:** 06-Jan-2026
+
+Focused on strengthening enterprise-level real-world object-oriented system design by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### What I practiced today:
+- **Enterprise Scenario Based OOPS Design:**
+  - Designing real-world problem scenarios
+  - Modeling system components using classes and objects
+  - Applying encapsulation, inheritance, abstraction, and polymorphism
+
+### Work Done:
+- Completed Linear Search and Binary Search practice.
+- Implemented 4 real-world enterprise-level Java systems.
+- Solved 1 LeetCode problem.
+
+### Scenario Based Systems Implemented:
+- PetPal – Virtual Pet Care App
+- EventEase – Event Management Platform
+- EduMentor – Personalized Learning Platform
+- FitTrack – Personal Fitness Tracker
+
+🔗 **Assignment Link:**  
+- [Scenario Based Programs]()  
+
+📌 **Key Takeaway:**  
+Developed strong hands-on understanding of enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
