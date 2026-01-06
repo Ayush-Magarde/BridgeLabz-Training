@@ -291,3 +291,30 @@ Focused on strengthening enterprise-level real-world object-oriented system desi
 Developed strong hands-on understanding of enterprise-level object-oriented design by implementing scalable, modular, and real-world Java systems using clean architecture principles.
 
 ---
+
+## 📅 Day 1 – Scenario Based Practice Problems  
+**Date:** 05-Jan-2026
+
+Focused on strengthening advanced object-oriented programming and real-world scenario-based system design by building enterprise-level Java applications while following professional coding standards.
+
+### What I practiced today:
+- **Scenario Based System Design:**
+  - Modeling real-world enterprise problem scenarios
+  - Implementing business logic using methods
+  - Applying access modifiers to secure sensitive data
+
+### Work Done:
+- Completed Advanced OOPS scenario-based design practice.
+- Implemented 2 real-world enterprise-level Java systems.
+- Implemented sorting algorithm programs.
+- Tested, committed, and pushed all programs to GitHub.
+
+### Scenario Based Systems Implemented:
+- CampusConnect – College Information System
+- SwiftCart – Grocery Shopping Application
+
+🔗 **Assignment Link:**  
+- [Scenario Based Programs](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)  
+
+📌 **Key Takeaway:**  
+Gained strong hands-on experience in advanced object-oriented programming by designing scalable, modular, and real-world Java systems.
