@@ -708,3 +708,38 @@ Focused on strengthening advanced object-oriented programming, real-world scenar
 Gained strong hands-on experience in advanced object-oriented programming and sorting algorithms by designing scalable, modular, and real-world Java systems.
 
 ---
+
+## 📅 Day 2 – Searching & Scenario Based Questions  
+**Date:** 06-Jan-2026
+
+Focused on strengthening searching algorithm fundamentals (Linear Search and Binary Search) and enterprise-level real-world object-oriented system design by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### What I practiced today:
+- **Searching Algorithms:**
+  - Linear Search implementation
+  - Binary Search implementation
+  - Understanding time complexity of searching techniques
+- **Enterprise Scenario-Based OOPS Design:**
+  - Designing real-world problem scenarios
+  - Modeling system components using classes and objects
+  - Applying encapsulation, inheritance, abstraction, and polymorphism
+
+### Work Done:
+- Completed Linear Search and Binary Search practice.
+- Implemented 4 real-world enterprise-level Java systems.
+- Solved 1 LeetCode problem.
+
+### Scenario-Based Systems Implemented:
+- PetPal – Virtual Pet Care App
+- EventEase – Event Management Platform
+- EduMentor – Personalized Learning Platform
+- FitTrack – Personal Fitness Tracker
+
+🔗 **Assignment Links:**  
+- [Scenario Based Programs]()  
+- [LeetCode Problems]()  
+
+📌 **Key Takeaway:**  
+Developed strong hands-on understanding of searching algorithms and enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
+
+---
