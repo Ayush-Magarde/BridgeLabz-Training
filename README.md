@@ -736,7 +736,7 @@ Focused on strengthening searching algorithm fundamentals (Linear Search and Bin
 - FitTrack – Personal Fitness Tracker
 
 🔗 **Assignment Links:**  
-- [Scenario Based Programs]()  
+- [Scenario Based Programs](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)  
 - [LeetCode Problems]()  
 
 📌 **Key Takeaway:**  
