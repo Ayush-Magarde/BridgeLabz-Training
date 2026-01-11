@@ -669,7 +669,7 @@ Focused on strengthening **advanced object-oriented programming, real-world scen
 - CampusConnect – College Information System  
 - SwiftCart – Grocery Shopping Application  
 
-🔗 **[Assignment Link]()** : Sorting Algorithms    
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)** : Sorting Algorithms    
 🔗 **[Assignment Link](hhttps://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)** : Scenario Based Programs     
 
 ### 📌 Key Takeaway:
@@ -704,7 +704,7 @@ Focused on strengthening **searching algorithm fundamentals (Linear Search & Bin
 - FitTrack – Personal Fitness Tracker  
 
 🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day4)** : Scenario Based Programs    
-🔗 **[Assignment Link]()** : Leetcode problems      
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-4)** : Leetcode problems      
 
 ### 📌 Key Takeaway:
 Developed strong hands-on understanding of searching algorithms and enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
@@ -735,16 +735,28 @@ Focused on strengthening **algorithm runtime analysis concepts and Big-O notatio
 - Completed **Algorithm Runtime Analysis & Big-O Notation** practice  
 - Tested, committed, and pushed all programs to GitHub  
 
-🔗 **[Assignment Link]()** : Scenario Based Programs      
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day5)** : Scenario Based Programs      
 
 ### 📌 Key Takeaway:
 Developed a clear understanding of algorithm efficiency and how Big-O notation helps in selecting optimal solutions for problem-solving.
 
 ---
 
+## 🗓 Day 6 – Scenario-Based Problems  
+**Date: 08-Jan-2026**
 
+Focused on strengthening **enterprise-level real-world object-oriented system design** by implementing advanced scenario-based Java applications while following professional coding standards.
+ 
+### Work Done:
+- Implemented **4 real-world scenario-based Java problems**  
 
+### Scenario Based Systems Implemented:
+- PetPal – Virtual Pet Care App  
+- EventEase – Event Management Platform   
 
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day6)** : Scenario Based Programs      
 
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of scenario-based object-oriented problems by implementing scalable, modular, and real-world Java applications.
 
-
+---
