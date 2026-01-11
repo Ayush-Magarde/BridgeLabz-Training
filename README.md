@@ -1,305 +1,337 @@
-# Week 1: Git, GitHub & Java Programming Fundamentals
+# BridgeLabz-Training
+# Week 1: Core Java Programming
 
-## 📅 Day 1 – Git & GitHub Setup  
-**Date:** 15-Dec-2025
+## 🗓 Day 1 – Git & GitHub Setup  
+**Date: 15-Dec-2025**
 
-- Installed and configured Git on the local system.
-- Created and set up the GitHub repository for BridgeLabz training.
-- Designed and organized a scalable folder structure for Java practice and problem-solving.
-- Understood the basics of version control and how GitHub is used to track learning progress.
-- Initialized the repository and prepared it for structured daily updates.
+- Installed and configured **Git** on my system  
+- Created and set up a **GitHub repository**
+- Designed the project folder structure for Java practice:
 
-📁 **Folder Structure:**
-```text
+```
 BridgeLabz-Training/
-├── core-java-practice/
-│   ├── gcr-codebase/
-│   │   ├── arrays/
-│   │   ├── control-flow/
-│   │   ├── extra/
-│   │   ├── methods/
-│   │   ├── programming-elements/
-│   │   ├── programming-prerequisites/
-│   │   └── strings/
-│   ├── leet-code-codebase/
-│   └── scenario-based-codebase/
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 arrays/
+│   │   ├── 📁 control-flow/
+│   │   ├── 📁 extra/
+│   │   ├── 📁 methods/
+│   │   ├── 📁 programming-elements/
+│   │   ├── 📁 programming-prerequisites/
+│   │   └── 📁 strings/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
 └── README.md
 ```
-🔧 **Git Commands Learned:**
-- `git init`
-- `git clone`
-- `git add`
-- `git commit`
-- `git push`
-- `git rebase`
 
-✅ Repository initialized and configured successfully for future Java practice and daily commits.
+### Git Commands Learned:
+- `git init`, `git clone`, `git add`, `git commit`, `git push`, `git rebase`
 
-📌 **Key Takeaway:**  
-Learned how Git and GitHub are used for version control and progress tracking, and understood the importance of maintaining a clean folder structure and a well-documented README for professional software development and evaluation.
+### Key Takeaway:
+Understood the importance of version control and how GitHub helps in tracking changes and managing code efficiently.
 
 ---
 
-## 📅 Day 2 – Git Practice & Basic Java Programs  
-**Date:** 16-Dec-2025
+## 🗓 Day 2 – Git Practice & Basic Java Programs  
+**Date: 16-Dec-2025**
 
-Continued strengthening my understanding of Git workflow and started working with basic Java programs to get comfortable with Java syntax and program structure.
-
+- Continued strengthening my understanding of **Git workflow** and started working with **basic Java programs** to get comfortable with Java syntax and program structure.
 ### What I did today:
-- Practiced Git workflow to understand commits and version control.
+- Practiced Git workflow to understand commits and version control
 - Solved basic Java programs to learn:
   - Java syntax
   - Program structure
   - Input and output handling
-- Practiced adding, committing, and pushing Java files to GitHub.
-- Learned basic Java syntax and explored programming fundamentals.
-
-🔗 **Code Link:**  
-[Basic Java Programs](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-pre-requisites)
-
-📌 **Key Takeaway:**  
-Gained confidence in using Git for daily development tasks and built a strong foundation in Java basics, including syntax, structure, and input/output operations.
+- Practiced adding, committing, and pushing Java files to GitHub
+- Learned basic Java syntax and explored **Programming Fundamentals**
+  
+🔗 **[Code Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-pre-requisites)** : Basic Java Programs  
 
 ---
 
-## 📅 Day 3 – Programming Fundamentals Lab Practice (Level 1 & Level 2)  
-**Date:** 17-Dec-2025
+## 🗓 Day 3 – Programming Fundamentals 
+**Date: 17-Dec-2025**
 
-Focused on building a strong foundation in Java Programming Fundamentals by completing Level 1 and Level 2 lab practice problems while following best programming standards.
-
+- Focused on building a strong foundation in **Java Programming Fundamentals** by completing Level 1 and Level 2 lab practice problems following best programming standards.
 ### What I practiced today:
-- **Java Programming Fundamentals:**
-  - Java comments
-  - Basic data types
-  - Variables
-  - Arithmetic operators
-  - Operator precedence
-  - Type conversion
-  - Taking user input in programs
-
-### Best Programming Practices Followed:
-- Avoided hard-coded values wherever possible.
-- Followed proper naming conventions.
-- Practiced meaningful variable naming, for example:
-
-```java
-String name = "Eric";
-double height = input.nextDouble();
-double totalDistance = distanceFromTovia + distanceViaToFinalCity;
-```
-🔗 **Assignment Link:**  
-[Java Programming Elements](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
-
-📌 **Key Takeaway:**  
-Built a strong foundation in Java programming fundamentals by understanding core concepts such as data types, variables, operators, type conversion, and user input, while applying clean coding practices to write readable and maintainable programs.
+- Java Programming Fundamentals:
+  - Java Comments  
+  - Basic Data Types  
+  - Variables  
+  - Arithmetic Operators  
+  - Operator Precedence  
+  - Type Conversion  
+  - Taking User Input in Programs
+    
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)** : Java Programming Elements  
 
 ---
 
-## 📅 Day 4 – Control Flow & Lab Practice (Level 1 & Level 2)  
-**Date:** 18-Dec-2025
+## 🗓 Day 4 – Control Flow  
+**Date: 18-Dec-2025**
 
-Focused on learning Java Control Flow concepts by completing Level 1 and Level 2 lab practice problems while following professional programming standards.
-
+- Focused on learning **Java Control Flow concepts** by completing Level 1 and Level 2 lab practice problems while following professional programming standards.
 ### What I practiced today:
-- **Java Control Flow concepts including:**
+- Java Control Flow concepts including:
   - `if`, `if-else`, nested `if-else`
-  - `switch` statements
-  - Ternary operator
-- **Iteration statements:**
-  - `for` loop
-  - `while` loop
-  - `do-while` loop
-
-### Best Programming Practices Followed:
-- Used variables for all fixed values, user inputs, and results.
-- Avoided hard-coded values wherever possible.
-- Validated all user inputs and handled invalid cases.
-- Used loop conditions and array length where applicable.
-
+  - `switch` statements  
+  - Ternary operator  
+- Iteration statements:
+  - `for` loop  
+  - `while` loop  
+  - `do-while` loop 
 ### Work Done:
-- Completed Level 1 and Level 2 Control Flow Lab Practice assignments.
-- Tested, committed, and pushed all programs to GitHub.
+- Completed **Level 1 & Level 2 Control Flow Lab Practice Assignments**
+- Tested, committed, and pushed all programs to GitHub
 
-🔗 **Assignment Link:**  
-[Control Flow Practice Programs](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
-
-📌 **Key Takeaway:**  
-Developed a strong understanding of decision-making and looping constructs in Java, and learned how to write efficient, readable, and structured programs using proper control flow techniques.
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)** : Control Flow Practices
 
 ---
 
-## 📅 Day 5 – Arrays & Lab Practice (Level 1 & Level 2)  
-**Date:** 19-Dec-2025
+## 🗓 Day 5 – Arrays 
+**Date: 19-Dec-2025**
 
-Focused on understanding Java Arrays by completing Level 1 and Level 2 lab practice problems while following professional programming standards.
-
+- Focused on understanding **Java Arrays** by completing Level 1 and Level 2 lab practice problems while following professional programming standards.
 ### What I practiced today:
-- **Java Arrays concepts including:**
-  - Creating and accessing arrays
-  - Traversing arrays using `for` loops
-  - Modifying array elements
-  - Using the `length` property of arrays
-- **Multi-Dimensional Arrays:**
-  - 2D arrays (matrix)
-  - Accessing and finding the size of multi-dimensional arrays
-
-### Best Programming Practices Followed:
-- Used variables for all fixed values, user inputs, and results.
-- Avoided hard-coded values wherever possible.
-- Followed proper naming conventions.
-- Validated user inputs and handled invalid cases.
-- Used the `length` property of arrays within loops.
-
+- Java Arrays concepts including:
+  - Creating and accessing arrays  
+  - Traversing arrays using `for` loops  
+  - Modifying array elements  
+  - Using `length` property of arrays  
+- Multi-Dimensional Arrays:
+  - 2D Arrays (Matrix)
+  - Accessing and finding size of multi-dimensional arrays  
 ### Work Done:
-- Completed Level 1 and Level 2 Arrays Lab Practice assignments.
-- Tested, committed, and pushed all programs to GitHub.
-
-🔗 **Assignment Link:**  
-[Level 1 & Level 2 Arrays Lab Practice](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
-
-📌 **Key Takeaway:**  
-Developed a strong understanding of single and multi-dimensional arrays in Java, and learned how to write efficient, readable, and maintainable code by following best programming practices.
+- Completed **Level 1 & Level 2 Lab Practice Assignments**
+- Tested, committed, and pushed all programs to GitHub
+  
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)** : Arrays Lab Practice  
 
 ---
 
-## 📅 Day 6 – Java Methods (Level 1, Level 2 & Level 3)  
-**Date:** 20-Dec-2025
+## 🗓 Day 6 – Java Methods 
+**Date: 20-Dec-2025**
 
-Focused on understanding Java Methods and building reusable, dynamic, and well-structured programs by applying best programming practices.
-
+- Focused on understanding **Java Methods** and building reusable, dynamic, and well-structured programs using best programming practices.
 ### What I practiced today:
-- **Java Methods concepts including:**
-  - User-defined methods
-  - Using methods multiple times
-  - Making methods more dynamic
-  - Recursive methods
-  - Static methods
-  - Java standard library methods
-  - `java.lang.Math` class
-
-### Best Programming Practices Followed:
-- Used variables for all fixed values, user inputs, and results.
-- Followed proper naming conventions for variables and methods.
-- Designed reusable methods to avoid code duplication.
-
+- Java Methods concepts including:
+  - User Defined Methods  
+  - Using Methods Multiple Times  
+  - Making Methods More Dynamic  
+  - Recursive Methods  
+  - Static Methods  
 ### Work Done:
-- Completed Level 1, Level 2, and Level 3 Java Methods Lab Practice assignments.
-- Implemented and tested all programs locally.
-- Committed and pushed all method-based programs to GitHub.
-
-🔗 **Assignment Link:**  
-[Level 1, Level 2 & Level 3 Java Methods Lab Practice](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/java-methods)
-
-📌 **Key Takeaway:**  
-Learned how to design reusable and modular Java programs using methods, improving code readability, maintainability, and overall program structure.
+- Completed **Level 1, Level 2 & Level 3 Lab Practice Assignments**
+- Implemented and tested all programs locally
+- Committed and pushed all method-based programs to GitHub
+  
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/java-methods)** : Java Methods Lab Practice
 
 ---
 
-# Week 2: Java Strings, Methods & Exception Handling
+## 🗓 Day 7 – Java Strings
+**Date: 22-Dec-2025**
 
-## 📅 Day 1 – Java Strings & Exception Handling (Level 1, 2 & 3 Labs)  
-**Date:** 22-Dec-2025
-
-Focused on strengthening Java Strings and Exception Handling concepts by completing Level 1, Level 2, and Level 3 lab practice problems while following professional coding standards.
-
+- Focused on strengthening **Java Strings** and **Exception Handling** by completing Level 1, Level 2, and Level 3 lab practice problems while following professional coding standards.
 ### What I practiced today:
-- **Java String Concepts:**
-  - Creating and manipulating strings
-  - Using escape sequences (`\`)
-  - String arrays
-  - Built-in `String` class methods
-  - ASCII character codes
-- **Java Exception Handling:**
-  - Types of exceptions
-  - Checked exceptions
-  - Unchecked exceptions (`RuntimeException`)
-
-### Best Programming Practices Followed:
-- Used variables for all fixed values, user inputs, and results.
-- Implemented logic using methods instead of writing everything inside `main()`.
-- Followed proper naming conventions for variables and methods.
-- Used meaningful program and class names.
-
+- Java String Concepts:
+  - Creating and manipulating strings  
+  - Using escape sequences (`\`)  
+  - String arrays  
+  - Built-in `String` class methods   
+- Java Exception Handling:
+  - Types of exceptions  
+  - Checked exceptions  
+  - Unchecked exceptions (`RuntimeException`)  
 ### Work Done:
-- Completed Java String Lab Practices (Level 1, 2 & 3).
-- Inserted all programs into submission documents.
-- Tested, committed, and pushed all programs to GitHub.
-
-🔗 **Assignment Link:**  
-[Java String Lab Practices](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
-
-📌 **Key Takeaway:**  
-Improved understanding of Java string manipulation and exception handling concepts, and learned how to write robust, well-structured programs using proper error handling and clean coding practices.
+- Completed **Java String Lab Practices (Level 1, 2 & 3)**
+- Inserted all programs into submission documents
+- Tested, committed, and pushed all programs to GitHub
+  
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)** : Java String Lab Practices
 
 ---
 
-## 📅 Day 2 – Built-in Functions & String Handling  
-**Date:** 23-Dec-2025
+## 🗓 Day 8 – Built-in Functions & String Handling  
+**Date: 23-Dec-2025**
 
-Focused on understanding Java String Handling and learning the practical use of built-in functions to build clean and efficient logic.
-
+- Focused on understanding **Java String Handling** and learning the practical use of **built-in functions** to build clean and efficient logic.
 ### What I practiced today:
-- Handling strings and common `String` functions.
-- String manipulation techniques.
-- **Functions:**
-  - Parameter passing
-  - Return values
-- Practical usage of Java built-in functions to solve logic-based problems.
-- Implemented extra practice programs based on class material.
-
-### Outcome:
-- Gained clarity on how to use common built-in functions effectively.
-- Learned to build clean logic using reusable methods.
-- Improved problem-solving efficiency using Java standard library functions.
-
+- Handling Strings and common String functions  
+- String manipulation techniques  
+- Functions:
+  - Parameter passing  
+  - Return values  
+- Practical usage of **Java built-in functions** to solve logic-based problems  
+- Implemented extra practice programs based on class material  
 ### Work Done:
-- Completed **EXTRAS** – Java String Handling material.
-- Completed **EXTRAS** – Built-in Function Practice Assignment.
-- Tested, committed, and pushed all extra practice programs to GitHub.
+- Completed **EXTRAS – Java String Handling** material  
+- Completed **EXTRAS – Built-in Function Practice Assignment**  
+- Tested, committed, and pushed all extra practice programs to GitHub
 
-🔗 **Assignment Links:**  
-- [Java String Handling (Extras)](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/string-handling)  
-- [Built-in Function Practice (Extras)](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/string-built-in)
-
-📌 **Key Takeaway:**  
-Developed a stronger understanding of Java string handling and built-in functions, enabling the creation of efficient, reusable, and well-structured logic for problem-solving.
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/string-handling)** : Java String Handling (Extras)    
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras/string-built-in)** : Built-in Function Practice (Extras)
 
 ---
 
-## 📅 Day 3 – Scenario-Based Java Problem Solving  
-**Date:** 24-Dec-2025
+# 🧩 Scenario-Based Problems
 
-Focused on solving real-world, scenario-based Java problems to strengthen Core Java fundamentals, logical thinking, and clean coding practices.
+## 🗓 Day 9 – Scenario-Based Java Problem Solving  
+**Date: 24-Dec-2025**
 
-### What I practiced today:
-- **Used Core Java concepts including:**
-  - Variables, literals, and primitive data types
-  - User input using `Scanner`
-  - Operators for calculations
-  - Conditional logic using `if`, `else`, ternary, and `switch`
-  - Loops (`for`, `while`, `do-while`, `for-each`)
-  - Control flow using `break` and `continue`
-
+- Focused on solving **real-world, scenario-based Java problems** to strengthen Core Java fundamentals, logical thinking, and clean coding practices.
 ### Scenario-Based Problems Implemented:
-- **The Coffee Counter Chronicles**
-  - Took coffee type input using `switch`
-  - Accepted quantity input
-  - Calculated total bill and GST
-  - Used `while` loop to serve multiple customers until exit
-- **Maya’s BMI Fitness Tracker**
-  - Calculated BMI using height and weight
-  - Displayed BMI category using `if-else` conditions
-  - Followed clean and readable coding standards
-
+- **The Coffee Counter Chronicles**  
+- **Maya’s BMI Fitness Tracker**  
 ### Work Done:
-- Implemented, tested, and validated programs with multiple inputs.
-- Organized all solutions into the scenario-based-codebase folder.
-- Committed and pushed all programs to GitHub.
-
-🔗 **Folder Link:**  
-[Scenario-Based Codebase](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-1)
-
-📌 **Key Takeaway:**  
-Improved problem-solving skills by applying core Java concepts to real-world scenarios, reinforcing logical thinking and the importance of writing clean, maintainable code.
+- Implemented, tested, and validated programs with multiple inputs  
+- Organized all solutions into the **scenario-based-codebase** folder  
+- Committed and pushed all programs to GitHub
+  
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-1)** : Scenario-Based problems
 
 ---
+
+## 🗓 Day 10 – Scenario-Based Java Problem Solving   
+**Date: 26-Dec-2025**
+
+- Focused on strengthening **Java logical thinking and real-world programming skills** by implementing scenario-based problems using control flow statements and loops while following professional coding standards.
+### Scenario-Based Problems Implemented:    
+  - **1️⃣ Election Booth Manager**    
+  - **2️⃣ Metro Smart Card Fare Deduction**    
+  - **3️⃣ Raj’s Result Generator**    
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs  
+- Organized all solutions into the **scenario-based-codebase** folder  
+- Committed and pushed all programs to GitHub
+  
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-2)** : Scenario based problems
+
+### 📌 Key Takeaway:
+- Improved my real-world problem-solving skills by implementing logical flow, loops, conditions, and grading systems in Java programs.
+
+---
+
+## 🗓 Day 11 – Scenario-Based Java Problem Solving   
+**Date: 29-Dec-2025**
+
+- Focused on solving **real-world, scenario-based Java problems** to strengthen Core Java fundamentals, logical thinking, and clean coding practices.
+### Scenario-Based Problems Implemented:    
+- **1️⃣ Parking Lot Gate System**     
+- **2️⃣ The Number Guessing Game**      
+- **3️⃣ Shopkeeper’s Discount Dashboard**       
+- **4️⃣ School Bus Attendance System**       
+- **5️⃣ Phone Recharge Simulator**        
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs  
+- Organized all solutions into the **scenario-based-codebase** folder  
+- Committed and pushed all programs to GitHub
+  
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-3)** : Scenario based problems
+
+### 📌 Key Takeaway:
+- Improved my scenario based problem-solving skills by implementing loops, and conditions in Java programs.   
+
+---
+
+## 🗓 Day 12 – Scenario-Based Java Problem Solving  
+**Date: 30-Dec-2025**
+
+- Focused on strengthening **Java logical thinking and real-world programming skills** by implementing scenario-based problems using control flow statements and loops while following professional coding standards.
+### Scenario-Based Problems Implemented:  
+- **1️⃣ Temperature Logger**    
+- **2️⃣ Train Reservation Queue**      
+- **3️⃣ Sandeep’s Fitness Challenge Tracker**    
+- **4️⃣ Movie Ticket Booking App**    
+- **5️⃣ Rohan’s Library Reminder App**     
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs  
+- Organized all solutions into the **scenario-based-codebase** folder  
+- Committed and pushed all programs to GitHub
+      
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-4)** : Scenario based problems
+
+### 📌 Key Takeaway:
+- Improved my scenario based problem-solving skills by implementing loops, and conditions in Java programs.   
+
+---
+
+## 🗓 Day 13 – Scenario-Based Java Problem Solving  
+**Date: 31-Dec-2025**
+
+- Implementing **scenario-based problems** using control flow statements and loops while ensuring professional coding standards.
+### Scenario-Based Problems Implemented:  
+- **1️⃣ Digital Watch Simulation**   
+- **2️⃣ Online Quiz Application**     
+- **3️⃣ Currency Exchange Kiosk** 
+- **4️⃣ Bus Route Distance Tracker**   
+- **5️⃣ Festival Lucky Draw**    
+### Work Done:
+- Implemented, tested, and validated programs with multiple inputs  
+- Organized all solutions into the **scenario-based-codebase** folder  
+- Committed and pushed all programs to GitHub
+  
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/scenario-based-problems-day-5)** : Scenario based problems
+
+### 📌 Key Takeaway:
+- Improved my scenario based problem-solving skills by implementing loops, and conditions in Java programs.   
+
+---
+
+# 🧩 Leetcode-Based Problems
+
+## 🗓 Day 9 – LeetCode-based Practice  
+**(Date: 24-Dec-2025)**
+
+- Practiced 3 problems.
+- Followed best programming practices.
+- Committed and pushed all solutions.    
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-1)** : Leetcode-Based problems
+
+## 🗓 Day 10 – LeetCode-based Practice  
+**(Date: 25-Dec-2025)**
+
+- Practiced 2 problems.
+- Followed best programming practices.
+- Committed and pushed all solutions.    
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-1)** : Leetcode-Based problems
+
+## 🗓 Day 11 – LeetCode-based Practice  
+**(Date: 26-Dec-2025)**
+
+- Practiced 2 problems.
+- Followed best programming practices.
+- Committed and pushed all solutions.   
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-2)** : Leetcode-Based problems
+
+## 🗓 Day 12 – LeetCode-based Practice  
+**(Date: 26-Dec-2025)**
+
+- Practiced 3 problems.
+- Followed best programming practices.
+- Committed and pushed all solutions.    
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-2)** : Leetcode-Based problems
+
+## 🗓 Day 13 – LeetCode-based Practice  
+**(Date: 27-Dec-2025)**
+
+- Practiced 2 problems.
+- Followed best programming practices.
+- Committed and pushed all solutions.    
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-3)** : Leetcode-Based problems
+
+## 🗓 Day 14 – LeetCode-based Practice  
+**(Date: 30-Dec-2025)**
+
+- Practiced 2 problems.
+- Followed best programming practices.
+- Committed and pushed all solutions.     
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-3)** : Leetcode-Based problems
+
+## 🗓 Day 15 – LeetCode-based Practice  
+**(Date: 6-Jan-2026)**
+
+- Practiced 1 problem.
+- Followed best programming practices.
+- Committed and pushed all solutions.    
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-3)** : Leetcode-Based problems
