@@ -670,7 +670,7 @@ Focused on strengthening **advanced object-oriented programming, real-world scen
 - SwiftCart – Grocery Shopping Application  
 
 🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)** : Sorting Algorithms    
-🔗 **[Assignment Link](hhttps://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)** : Scenario Based Programs     
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)** : Scenario Based Programs     
 
 ### 📌 Key Takeaway:
 Gained strong hands-on experience in advanced object-oriented programming and sorting algorithms by designing scalable, modular, and real-world Java systems.
@@ -758,5 +758,25 @@ Focused on strengthening **enterprise-level real-world object-oriented system de
 
 ### 📌 Key Takeaway:
 Developed strong hands-on understanding of scenario-based object-oriented problems by implementing scalable, modular, and real-world Java applications.
+
+---
+
+## 🗓 Day 7 – Scenario-Based Practice  
+**Date: 09-Jan-2026**
+
+Focused on strengthening **enterprise-level real-world object-oriented system design** by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:
+- Artify – Digital Art Marketplace  
+- FoodLoop – Restaurant Ordering System
+- SkillForge – Online Learning Portal  
+
+### Work Done:
+- Implemented **3 real-world enterprise-level Java systems**  
+
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day7)** : Scenario Based Programs     
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of enterprise-level object-oriented system design by implementing scalable, modular, and real-world Java applications.
 
 ---
