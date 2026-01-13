@@ -334,4 +334,4 @@ Understood the importance of version control and how GitHub helps in tracking ch
 - Practiced 1 problem.
 - Followed best programming practices.
 - Committed and pushed all solutions.    
-🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-3)** : Leetcode-Based problems
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/leetcode-day-4)** : Leetcode-Based problems
