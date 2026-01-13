@@ -817,3 +817,30 @@ Focused on strengthening problem-solving skills and logical thinking by solving 
 Improved my confidence in solving real coding interview problems by practicing logical thinking, edge-case handling, and writing clean Java solutions.
 
 ---
+
+## 🗓 Day 10 – Scenario-Based Problems  
+**Date:** 12-Jan-2026
+
+Focused on strengthening DSA and OOPS practice by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:
+- CallCenter – Customer Queue Manager  
+- TrainCompanion – Compartment Navigation System  
+- TextEditor – Undo/Redo Functionality  
+- TrafficManager – Roundabout Vehicle Flow  
+- HomeNest – Smart Home Device Manager  
+- BudgetWise – Personal Finance Tracker  
+- GameBox – Mobile Game Distribution Platform  
+
+### Work Done:
+- Implemented multiple real-world scenario-based Java applications.
+- Applied data structures, control flow, and object-oriented design principles.
+- Tested, committed, and pushed all programs to GitHub.
+
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day8)** :  OOPS Scenario Based Programs  
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day2)** :  DSA Scenario Based Programs  
+
+📌 **Key Takeaway:**  
+Developed strong hands-on understanding of DSA and OOPS concepts by implementing scalable, modular, and real-world Java applications.
+
+---
