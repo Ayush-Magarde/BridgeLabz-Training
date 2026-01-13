@@ -800,3 +800,20 @@ Focused on strengthening **dsa practice problems** by implementing advanced scen
 Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
 
 ---
+
+## 🗓 Day 9 – LeetCode Problem Solving & Logic Building  
+**Date:** 11-Jan-2026
+
+Focused on strengthening problem-solving skills and logical thinking by solving LeetCode programming problems while following professional coding standards.
+
+### Work Done:
+- Solved 1 LeetCode problem.
+- Practiced logic building and algorithmic thinking.
+- Tested, committed, and pushed all solutions to GitHub.
+
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/day1)** : LeetCode Problem Solving  
+
+📌 **Key Takeaway:**  
+Improved my confidence in solving real coding interview problems by practicing logical thinking, edge-case handling, and writing clean Java solutions.
+
+---
