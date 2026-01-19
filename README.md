@@ -860,3 +860,25 @@ Focused on strengthening DSA and OOPS practice by implementing advanced scenario
 Developed strong hands-on understanding of DSA and OOPS concepts by implementing scalable, modular, and real-world Java applications.
 
 ---
+
+## 🗓 Day 11 – Scenario-based problems  
+*Date: 13-Jan-2026*
+
+Focused on strengthening *dsa and oops practice problems* by implementing advanced scenario-based Java applications while following professional coding standards.
+
+### Scenario Based Systems Implemented:
+- SmartCheckout – Supermarket Billing Queue  
+- ParcelTracker – Delivery Chain Management
+- ExamProctor – Online Exam Review System
+- PayXpress – Utility Bill Payment System
+- Bird Sanctuary  
+
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day3)** : DSA Scenario Based Programs     
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioProblems/src/com/day9)** : OOPS Scenario Based Programs   
+
+### 📌 Key Takeaway:
+Developed strong hands-on understanding of dsa-practice problems by implementing scalable, modular, and real-world Java applications.
+
+---
+
+</details>
