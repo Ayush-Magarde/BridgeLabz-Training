@@ -10,14 +10,17 @@ The training is organized into structured branches covering different aspects of
 
 ## Repository Branches
 
-### 🔹 core-java-practice  
+### **[🔹 core-java-practice](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/core-java-practice)**
 **Week 1:** Fundamentals of Java Programming  
 
-### 🔹 java-oops-practice  
+### **[🔹 java-oops-practice](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-oops-practice)**  
 **Week 2:** Object-Oriented Programming  
 
-### 🔹 dsa-practice  
+### **[🔹 dsa-practice](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/dsa-practice)**  
 **Week 3:** Data Structures & Algorithms  
+
+### **[🔹 java-collections-practice](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-collections-practice)**  
+**Week 4:** Java collections and Stream 
 
 ---
 
@@ -68,6 +71,9 @@ BridgeLabz-Training/
 ---
 
 # Week 1: Core Java Programming
+
+<details>
+<summary>Expand🔹Day wise</summary>
 
 ## 🗓 Day 1 – Git & GitHub Setup  
 **Date: 15-Dec-2025**
@@ -325,7 +331,12 @@ Improved problem-solving skills by applying core Java concepts to real-world sce
 
 ---
 
+</details>
+
 # Week 2: Object-Oriented Programming
+
+<details>
+<summary>Expand🔹Day wise</summary>
 
 ## 🗓 Day 1 – Object-oriented Programming Fundamental 
 **Date: 26-Dec-2025**
@@ -562,7 +573,12 @@ Developed a strong understanding of data hiding, abstraction, and polymorphism b
 
 ---
 
+</details>
+
 # Week 3: Data Structures & Algorithms
+
+<details>
+<summary>Expand🔹Day wise</summary>
 
 ## 🗓 Day 1 – Linked List, Helper Methods & Real-World OOPS Design  
 **Date: 02-Jan-2026**
