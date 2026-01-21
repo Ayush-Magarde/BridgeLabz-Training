@@ -976,6 +976,36 @@ Focused on strengthening OOPS practice problems by implementing advanced scenari
 📌 **Key Takeaway:**  
 Developed strong hands-on understanding of OOPS practice problems by implementing scalable, modular, and real-world Java applications.
 
+---
+
+## 🗓 Day 5 – Java Streams  
+**Date:** 19-Jan-2026
+
+Focused on strengthening Java Streams API concepts by understanding functional-style operations on collections, data processing pipelines, and cleaner, more readable code while following professional coding standards.
+
+### What I practiced today:
+- **Java Streams Fundamentals:**
+  - Understanding Streams and their purpose
+  - Difference between Streams and Collections
+  - Stream pipeline (source, intermediate, terminal operations)
+- **Intermediate Operations:**
+  - `filter()` for conditional processing
+  - `map()` for data transformation
+  - `sorted()` for ordering elements
+- **Terminal Operations:**
+  - `forEach()` for iteration
+  - `collect()` for converting stream results
+  - `reduce()` for aggregation operations
+
+### Scenario Based Systems Implemented:
+- EduResults – Rank Sheet Generator
+- FlashDealz – Product Sorting by Discount
+- FitnessTracker – Daily Step Count Ranking
+- Address Book System
+
+📌 **Key Takeaway:**  
+Developed a strong understanding of how Java Streams simplify data processing, improve code readability, and enable functional-style programming in Java.
+
 </details>
 
 ---
