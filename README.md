@@ -939,6 +939,7 @@ Focused on strengthening *Java Collections Framework concepts* by understanding 
 - CinemaHouse – Movie Time Sorting
 - CropMonitor – Sensor Data Ordering 
 
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)** : Java Collections     
 🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioProblems/src/com/day5)** : DSA Scenario Based Programs   
 
 ### 📌 Key Takeaway:
@@ -1003,6 +1004,8 @@ Focused on strengthening Java Streams API concepts by understanding functional-s
 - FitnessTracker – Daily Step Count Ranking
 - Address Book System
 
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)** : Java Streams
+
 📌 **Key Takeaway:**  
 Developed a strong understanding of how Java Streams simplify data processing, improve code readability, and enable functional-style programming in Java.
 
@@ -1032,6 +1035,8 @@ Focused on strengthening Java Exception Handling concepts by understanding runti
 - FoodFest – Sorting Stalls by Customer Footfall
 - GamerZone – High Score Ranking System
 - FlipKey
+
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions)** : Java Exceptions
 
 📌 **Key Takeaway:**  
 Developed a solid understanding of exception handling in Java and learned how to write robust, maintainable, and error-resilient programs.
