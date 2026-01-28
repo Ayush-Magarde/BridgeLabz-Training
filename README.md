@@ -1096,6 +1096,7 @@ Focused on strengthening Java Annotations and Reflection concepts by understandi
 - Hospital Queue Management
 
 🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)** : Java Annotations
+🔗 **[Assignment Link](https://github.com/Ayush-Magarde/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflections)** : Java Reflections
 
 📌 **Key Takeaway:**  
 Developed a solid understanding of how annotations provide metadata and how reflection enables dynamic inspection and execution of Java code at runtime.
