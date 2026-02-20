@@ -1163,6 +1163,186 @@ Developed a strong understanding of JSON data handling in Java and learned how s
 
 </details>
 
+# Week 6: Java 8 & its Features
+
+<details>
+<summary>Expand🔹Day wise</summary>
+
+## 🗓 Day 1 – Lambda Expressions  
+**Date: 27-Jan-2026**
+
+Focused on strengthening **Lambda Expressions in Java 8** by writing concise functional-style code and reducing boilerplate using anonymous function implementations while following professional coding standards.
+
+### What I practiced today:   
+- Lambda Expressions Basics:   
+  - Understanding functional programming concepts  
+  - Syntax of lambda expressions  
+  - Replacing anonymous classes with lambdas
+    
+- Usage of Lambdas:   
+  - Using lambdas with interfaces  
+  - Passing behavior as method parameters  
+  - Writing cleaner and more readable code  
+
+### 📌 Key Takeaway:
+Learned how lambda expressions simplify Java code and enable functional-style programming by reducing boilerplate and improving readability.
+
+---
+
+## 🗓 Day 2 – Functional Interfaces  
+**Date: 27-Jan-2026**
+
+Focused on strengthening **Functional Interfaces in Java 8** by understanding single abstract method interfaces and their role in lambda expressions while following professional coding standards.
+
+### What I practiced today:   
+- Functional Interface Concepts:   
+  - Understanding Single Abstract Method (SAM) interfaces  
+  - Using `@FunctionalInterface` annotation  
+  - Creating custom functional interfaces  
+
+- Built-in Functional Interfaces:   
+  - Predicate  
+  - Function  
+  - Consumer  
+  - Supplier  
+
+### 📌 Key Takeaway:
+Understood how functional interfaces form the foundation of Java 8 features and enable powerful functional-style programming with lambdas.
+
+--- 
+
+## 🗓 Day 3 – Stream API  
+**Date: 28-Jan-2026**
+
+Focused on strengthening **Java 8 Stream API concepts** by processing collections using functional-style operations and stream pipelines while following professional coding standards.
+
+### What I practiced today:   
+- Stream API Fundamentals:   
+  - Understanding streams and stream pipelines  
+  - Difference between collections and streams  
+  - Lazy evaluation in streams  
+
+- Stream Operations:   
+  - Intermediate operations: `filter()`, `map()`, `sorted()`  
+  - Terminal operations: `forEach()`, `collect()`, `reduce()`  
+
+### 📌 Key Takeaway:
+Developed a strong understanding of how Java Streams simplify data processing and enable clean, functional-style code.
+
+---
+
+## 🗓 Day 4 – Collectors  
+**Date: 29-Jan-2026**
+
+Focused on strengthening **Collectors in Java 8** by collecting, grouping, and transforming stream data into different data structures while following professional coding standards.
+
+### What I practiced today:   
+- Collectors Basics:   
+  - Understanding `Collectors` utility class  
+  - Using `toList()`, `toSet()`, `toMap()`  
+
+- Advanced Collectors:   
+  - Grouping and partitioning data  
+  - Counting, summing, and averaging elements  
+  - Collecting stream results efficiently  
+
+### 📌 Key Takeaway:
+Learned how collectors help transform and aggregate stream data efficiently, making Java 8 streams more powerful and expressive.
+
+---
+
+</details>
+
+# Week 7: Solution Designing
+
+<details>
+<summary>Expand🔹Day wise</summary>
+
+## 🗓 Day 1 – Software Design Principles  
+**Date: 30-Jan-2026**
+
+Focused on strengthening **software design principles** by understanding how to design clean, maintainable, scalable, and flexible software systems while following professional coding and architectural standards.
+
+### What I practiced today:   
+- Core Design Principles:   
+  - Understanding the importance of good software design  
+  - Writing clean, readable, and maintainable code  
+  - Designing systems with low coupling and high cohesion  
+
+- SOLID Principles Overview:   
+  - Single Responsibility Principle (SRP)  
+  - Open/Closed Principle (OCP)  
+  - Liskov Substitution Principle (LSP)  
+  - Interface Segregation Principle (ISP)  
+  - Dependency Inversion Principle (DIP)  
+
+- Design Thinking:   
+  - Identifying responsibilities in a system  
+  - Separating concerns effectively  
+  - Designing for future changes and extensibility  
+
+### 📌 Key Takeaway:
+Developed a strong understanding of how software design principles help build robust, scalable, and maintainable systems and form the foundation for effective solution designing.
+
+---
+
+## 🗓 Day 2 – Design Patterns  
+**Date: 31-Jan-2026**
+
+Focused on strengthening **design pattern concepts** by understanding reusable solutions to common software design problems and learning how to apply proven architectural patterns while following professional coding standards.
+
+### What I practiced today:   
+- Design Patterns Overview:   
+  - Understanding what design patterns are and why they are used  
+  - Difference between design principles and design patterns  
+  - Benefits of using patterns in large-scale applications  
+
+- Creational Design Patterns:   
+  - Singleton Pattern  
+  - Factory Pattern  
+  - Builder Pattern  
+  - Understanding object creation control  
+
+- Structural & Behavioral Patterns (Introduction):   
+  - Overview of Adapter, Decorator patterns  
+  - Introduction to Observer and Strategy patterns  
+  - Understanding when to apply each pattern  
+
+### 📌 Key Takeaway:
+Gained a strong understanding of how design patterns provide reusable, proven solutions to recurring design problems and help build scalable and maintainable software systems.
+
+---
+
+## 🗓 Day 3 – Java Multithreading  
+**Date: 02-Feb-2026**
+
+Focused on strengthening **Java multithreading concepts** by understanding concurrent execution, thread lifecycle, synchronization, and safe shared resource handling while following professional coding standards.
+
+### What I practiced today:   
+- Multithreading Fundamentals:   
+  - Understanding processes vs threads  
+  - Thread lifecycle and states  
+  - Creating threads using `Thread` class and `Runnable` interface  
+
+- Thread Management:   
+  - Using `start()` vs `run()`  
+  - Thread scheduling and priorities  
+  - Sleep and join methods
+    
+- Synchronization & Concurrency:   
+  - Race conditions and thread safety  
+  - Using `synchronized` keyword  
+  - Handling shared resources safely  
+
+### 📌 Key Takeaway:
+Developed a solid understanding of concurrent programming in Java and learned how to manage multiple threads safely using synchronization techniques.
+
+</details>
+
+---
+
+</details>
+
 ## 📌 Best Programming Practices Followed:   
 - Used meaningful variable and method names  
 - Avoided raw types and used generics where applicable  
